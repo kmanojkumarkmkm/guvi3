@@ -3,6 +3,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class anagram {
+	
 	public static void main(String[] args)throws IOException{
         Scanner in=new Scanner(System.in);
         System.out.println("ENTER THE 1st String");
@@ -22,7 +23,7 @@ public class anagram {
 	else
 		
 		System.out.println("not a anagram");
-	
+	//-----------------------//
 	
 	
 	}
