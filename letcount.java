@@ -1,7 +1,9 @@
 import java.io.IOException;
 import java.util.*;
 
-// updated By Manojkumar
+// Verified and updated By All
+
+
 public class letcount {
         public static void main(String[] args)throws IOException{
             Scanner in=new Scanner(System.in);
